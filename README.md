@@ -27,12 +27,13 @@ E-commerce platforms generate large volumes of transaction data, making it diffi
 ---
 
 ## 📁 Project Structure
-code/ → Python analysis script
-data/ → Dataset (CSV)
-report/ → Final project report (PDF)
-screenshots/ → Outputs and visualizations
-sql_queries.sql → SQL queries used
-README.md → Project documentation
+
+- code/ → Python analysis script  
+- data/ → Dataset (CSV)  
+- report/ → Final project report (PDF)  
+- screenshots/ → Outputs and visualizations  
+- sql_queries.sql → SQL queries used  
+- README.md → Project documentation 
 
 ---
 
