@@ -18,18 +18,11 @@ E-commerce platforms generate large volumes of transaction data, making it diffi
 
 ---
 
-## 🧰 Tools Used
-- MySQL Workbench  
-- Microsoft Excel  
-- Python (Pandas, Matplotlib)  
-
----
-
-## 📊 Key Insights
-- Mobile is the most popular product  
-- Bangalore generates the highest revenue  
-- High-value customers identified for targeted marketing  
-- Revenue is concentrated in major cities  
+## 🧰 Tools & Technologies Used
+- MySQL Workbench (SQL queries)  
+- Microsoft Excel (Pivot tables & charts)
+- Python (Pandas, Matplotlib)
+- GitHub (Project hosting) 
 
 ---
 
@@ -41,6 +34,42 @@ screenshots/ → Outputs and visualizations
 sql_queries.sql → SQL queries used
 README.md → Project documentation
 
+---
+
+## 📊 Key Analysis Performed
+
+### 🔹 SQL
+- Total spending per customer  
+- Product popularity analysis  
+- City-wise revenue calculation  
+- Brand-wise revenue analysis  
+
+### 🔹 Excel
+- Created Total Purchase column  
+- Pivot table analysis  
+- Bar chart → Product sales  
+- Pie chart → City revenue distribution  
+
+### 🔹 Python
+- Data loading using Pandas  
+- Aggregation and grouping  
+- Automated visualization (bar chart & pie chart)  
+
+---
+
+## 📊 Key Insights
+- Mobile is the most popular product  
+- Bangalore generates the highest revenue  
+- High-value customers identified for targeted marketing  
+- Revenue is concentrated in major cities  
+
+---
+
+## 🌟 Unique Features
+- Multi-tool integration (SQL + Excel + Python)  
+- Data-driven decision support  
+- Visual representation using charts  
+- Additional brand-wise analysis
 
 ---
 
